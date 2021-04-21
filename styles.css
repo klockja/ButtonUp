@@ -1,0 +1,39 @@
+.searchBtn
+{
+    display: block;
+    background-color: gainsboro;
+    border: 2px solid cadetblue;
+    color: cadetblue;
+    height: 30px;
+    width: 200px;
+    border-radius: 20px;
+    font-size: .9rem;
+    font-weight: bolder;
+}
+
+.plusBtn
+{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: 300;
+    color: white;
+    background-color: rgb(53, 187, 174);
+    border-radius: 20px;
+    height: 40px;
+    width: 40px;
+    border: none;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.createAccountBtn
+{
+    display: block;
+    color: white;
+    background-color: rgb(0, 132, 255);
+    border: 2px solid black;
+    font-size: 1rem;
+    padding: 10px 30px;
+    box-shadow: 5px 5px 0px black;
+}
